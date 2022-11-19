@@ -1,7 +1,6 @@
 ﻿# Bipolar-disorder-and-machine-learning
 
-Team members: Jingjing Mao 
-Rabab
-Julien 
-
-
+Team members:
+- Jingjing Mao 
+- Rabab
+- Julien 
