@@ -1,3 +1,4 @@
 ﻿# Bipolar-disorder-and-machine-learning
 
-Jingjing Mao 
+Team members: Jingjing Mao 
+
