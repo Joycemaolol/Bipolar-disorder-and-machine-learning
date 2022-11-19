@@ -1,5 +1,6 @@
 pandas
 matplotlib
 numpy
+torch
 keras
 sklearn
