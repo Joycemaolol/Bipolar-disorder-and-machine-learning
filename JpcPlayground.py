@@ -46,7 +46,3 @@ AverageMotion_plot(x='AverageMotion')
 
 
 ## - learn how to(it’s ok if you don’t know how to code this at this point) encode data: change categorical data into numerical data
-
-test =2
-
-
