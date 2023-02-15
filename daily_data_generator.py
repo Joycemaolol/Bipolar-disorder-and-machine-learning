@@ -8,11 +8,11 @@ control_location = "C:/Users/18jm6/OneDrive - Queen's University/2023 Winter/QMI
 condition_location = "C:/Users/18jm6/OneDrive - Queen's University/2023 Winter/QMIND 2022-2023/data/condition/"+"condition_"
 output_file_saving_location = "C:/Users/18jm6/OneDrive - Queen's University/2023 Winter/QMIND 2022-2023/"
 
-delta_t = 10 #this means corsaring the data by averaging the data over this time interval
+delta_t = 1 #this means corsaring the data by averaging the data over this time interval
 def zero_remover(daily_activity):
     counts = daily_activity.value_counts()
     werid = counts.max()
-    if werid > len(daily_activity)*0.8:
+    if werid > len(daily_activity)*0.5:
         return False
     else:
         return True
@@ -164,7 +164,7 @@ for h in control_number:
 #daily_motion = daily_motion.sample(frac = 1)
 daily_motion = daily_motion.set_index(np.arange(0, daily_motion.shape[0], 1))
 daily_motion.to_pickle(output_file_saving_location+"daily_motion.pickle") #the name of output file is daily_motion
-
+daily_motion.to_csv(output_file_saving_location+"daily_motion.csv")
 
 
 #create train and test dataset using different group of patients
