@@ -4,3 +4,4 @@ Team members:
 - Jingjing Mao 
 - Rabab
 - Julien 
+- Aria Maz
