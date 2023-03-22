@@ -1,6 +1,7 @@
 ﻿# Bipolar-disorder-and-machine-learning
 
 Team members:
+- Aria Maz
 - Jingjing Mao 
-- Rabab
-- Julien 
+- Julien Pierre Chanel
+- Rabab Azeem
