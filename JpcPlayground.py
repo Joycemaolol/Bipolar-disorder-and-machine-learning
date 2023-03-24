@@ -16,7 +16,7 @@ Mydata
 
 ## - Normalize the data [xnormalized = (x - xminimum) / range of x]
 
-## - Plot the activity dataset (Q. How to import activity for all conditions - as their in seperate files. Does this mean we'll have to do our analysis from condition to condition)
+## - Plot the activity dataset (Q. How to import activity for all conditions (as their in seperate files). Does this mean we'll have to do our analysis from condition to condition?)
 
 Activity1 = pd.read_csv('/Users/julienchanel/Documents/GitHub/data/condition/condition_1.csv')
 Activity1
@@ -44,5 +44,4 @@ AverageMotion_plot(x='AverageMotion')
 
 ## - Find the “standard deviation” motion for each patient each day, for unipolar, bipolar, and healthy controls. For each patient, plot a graph: x asis: day, y axis: amount of time with no movement
 
-
-## - Learn how to(it’s ok if you don’t know how to code this at this point) encode data: change categorical data into numerical data
+## - Learn how to encode data: change categorical data into numerical data
