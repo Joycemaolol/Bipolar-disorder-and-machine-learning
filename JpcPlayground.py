@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt;
 Mydata = pd.read_csv('/Users/julienchanel/Documents/GitHub/data/scores.csv')
 Mydata
 
-## - show dataset, create new columns with two existing variables\
+## - Show dataset, create new columns with two existing variables
 
 Mydata.info()
 Mydata['Average madrs'] = ((Mydata.madrs2 + Mydata.madrs1)/2)
