@@ -1,5 +1,7 @@
 # Bipolar-disorder-and-machine-learning
 
+![278192872_378414047624792_8034591631682194262_n](https://github.com/Joycemaolol/Bipolar-disorder-and-machine-learning/assets/102880878/34bade9e-e294-449b-98f2-0cbe913f30c3)
+
 <h3 align="left">Team Members</h3>
 - Aria Maz <br>
 - Jingjing Mao <br> 
