@@ -1,8 +1,7 @@
-# Bipolar-disorder-and-machine-learning
+# Bipolar Disorder & Machine Learning
 <a href="https://github.com/AriaMaz">
-<img src="https://github.com/Joycemaolol/Bipolar-disorder-and-machine-learning/assets/102880878/34bade9e-e294-449b-98f2-0cbe913f30c3" align="right" width="175" alt="Logo">
+<img src="https://github.com/Joycemaolol/Bipolar-disorder-and-machine-learning/assets/102880878/34bade9e-e294-449b-98f2-0cbe913f30c3" align="right" width="200" alt="Logo">
 </a>
-![278192872_378414047624792_8034591631682194262_n](https://github.com/Joycemaolol/Bipolar-disorder-and-machine-learning/assets/102880878/34bade9e-e294-449b-98f2-0cbe913f30c3)
 
 <h3 align="left">Team Members</h3>
 - Aria Maz <br>
